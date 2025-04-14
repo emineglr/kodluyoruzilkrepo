@@ -2,7 +2,7 @@
 Kodluyoruz Front-End kapsamında açtığım ilk repo
 
 
-![github](img/github.png)
+![github](img/image.png)
 
 # Installation
 Öncelikle projeyi klonlayın.
